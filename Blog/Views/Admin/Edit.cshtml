@@ -1,0 +1,46 @@
+﻿@model Blog.Models.Post
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<hr />
+<form method="post" asp-controller="Admin" asp-action="Edit">
+    <div>
+        <label for="Title">Title of article</label>
+        <input type="text" id="Title" asp-for="Title">
+    </div>
+
+    <div>
+        <label for="Author">Author</label>
+        <input type="text" class="form-control" id="author" asp-for="Author">
+    </div>
+
+    <div>
+        <label for="ShortDesc">Short Description</label>
+        <textarea id="ShortDesc" asp-for="ShortDesc"></textarea>
+    </div>
+
+
+    <div>
+        <label for="LongDesc">Long Description</label>
+        <textarea id="LongDesc" asp-for="LongDesc"></textarea>
+    </div>
+    <div>
+        <button type="submit">Edit</button>
+    </div>
+</form>
+
+
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

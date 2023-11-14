@@ -1,0 +1,19 @@
+﻿@model Blog.Models.Post
+<section>
+	<header class="major">
+		<h2>Articles</h2>
+	</header>
+	<div class="posts">
+	
+
+			<article>
+				<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+			<h3>@Html.DisplayFor(model => model.Title)</h3>
+			<p>@Html.DisplayFor(model => model.LongDesc)</p>				
+			</article>
+		
+	</div>
+</section>
+<ul class="actions">
+<a asp-action="Index" class="button">Back to List</a>
+</ul>

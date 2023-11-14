@@ -1,0 +1,1261 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Blog.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Blog.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\js\\breakpoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\breakpoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\js\\browser.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\browser.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\js\\util.js",
+      "PackagePath": "staticwebassets\\assets\\js\\util.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\base\\_page.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\base\\_page.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\base\\_reset.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\base\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\base\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\components\\_actions.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_actions.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\components\\_box.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_box.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\components\\_button.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_button.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\components\\_contact.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\components\\_features.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_features.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\components\\_form.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_form.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\components\\_icon.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_icon.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\components\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\components\\_list.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\components\\_mini-posts.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_mini-posts.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\components\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\components\\_posts.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_posts.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\components\\_row.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_row.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\components\\_section.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_section.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\components\\_table.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_table.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\layout\\_banner.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\layout\\_main.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_main.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\layout\\_menu.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\layout\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\layout\\_wrapper.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\libs\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\libs\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\libs\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\libs\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\libs\\_html-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\libs\\_html-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\libs\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\libs\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\libs\\_vars.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\libs\\_vars.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\libs\\_vendor.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\libs\\_vendor.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\images\\pic01.jpg",
+      "PackagePath": "staticwebassets\\images\\pic01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\images\\pic02.jpg",
+      "PackagePath": "staticwebassets\\images\\pic02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\images\\pic03.jpg",
+      "PackagePath": "staticwebassets\\images\\pic03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\images\\pic04.jpg",
+      "PackagePath": "staticwebassets\\images\\pic04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\images\\pic05.jpg",
+      "PackagePath": "staticwebassets\\images\\pic05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\images\\pic06.jpg",
+      "PackagePath": "staticwebassets\\images\\pic06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\images\\pic07.jpg",
+      "PackagePath": "staticwebassets\\images\\pic07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\images\\pic08.jpg",
+      "PackagePath": "staticwebassets\\images\\pic08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\images\\pic09.jpg",
+      "PackagePath": "staticwebassets\\images\\pic09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\images\\pic10.jpg",
+      "PackagePath": "staticwebassets\\images\\pic10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\images\\pic11.jpg",
+      "PackagePath": "staticwebassets\\images\\pic11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\froala_editor.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\froala_editor.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\froala_editor.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\froala_editor.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\froala_editor.pkgd.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\froala_editor.pkgd.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\froala_editor.pkgd.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\froala_editor.pkgd.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\froala_style.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\froala_style.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\froala_style.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\froala_style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins.pkgd.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins.pkgd.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins.pkgd.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins.pkgd.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\char_counter.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\char_counter.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\char_counter.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\char_counter.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\code_view.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\code_view.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\code_view.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\code_view.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\colors.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\colors.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\colors.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\colors.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\draggable.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\draggable.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\draggable.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\draggable.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\emoticons.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\emoticons.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\emoticons.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\emoticons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\file.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\file.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\file.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\file.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\files_manager.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\files_manager.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\files_manager.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\files_manager.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\fullscreen.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\fullscreen.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\fullscreen.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\fullscreen.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\help.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\help.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\help.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\help.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\image.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\image.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\image.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\image.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\image_manager.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\image_manager.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\image_manager.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\image_manager.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\line_breaker.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\line_breaker.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\line_breaker.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\line_breaker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\markdown.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\markdown.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\markdown.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\markdown.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\quick_insert.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\quick_insert.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\quick_insert.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\quick_insert.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\special_characters.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\special_characters.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\special_characters.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\special_characters.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\table.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\table.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\table.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\table.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\trim_video.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\trim_video.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\trim_video.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\trim_video.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\video.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\video.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\plugins\\video.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\plugins\\video.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\themes\\dark.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\themes\\dark.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\themes\\dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\themes\\dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\themes\\gray.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\themes\\gray.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\themes\\gray.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\themes\\gray.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\themes\\royal.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\themes\\royal.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\themes\\royal.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\themes\\royal.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\third_party\\embedly.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\third_party\\embedly.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\third_party\\embedly.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\third_party\\embedly.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\third_party\\font_awesome.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\third_party\\font_awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\third_party\\font_awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\third_party\\font_awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\third_party\\image_tui.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\third_party\\image_tui.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\third_party\\image_tui.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\third_party\\image_tui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\third_party\\spell_checker.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\third_party\\spell_checker.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\css\\third_party\\spell_checker.min.css",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\css\\third_party\\spell_checker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\froala_editor.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\froala_editor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\froala_editor.pkgd.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\froala_editor.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\ar.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\ar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\bs.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\bs.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\bs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\cs.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\cs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\da.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\da.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\da.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\de.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\de.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\de.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\el.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\el.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\el.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\en_ca.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\en_ca.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\en_ca.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\en_ca.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\en_gb.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\en_gb.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\en_gb.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\en_gb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\es.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\es.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\es.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\et.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\et.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\et.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\fa.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\fa.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\fi.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\fi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\fr.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\fr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\he.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\he.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\he.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\hr.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\hr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\hu.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\hu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\id.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\id.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\id.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\it.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\it.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\it.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\ja.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\ja.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\ko.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\ko.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\ku.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\ku.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\ku.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\me.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\me.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\me.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\me.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\nb.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\nb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\nl.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\nl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\pl.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\pl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\pt_br.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\pt_br.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\pt_br.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\pt_br.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\pt_pt.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\pt_pt.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\pt_pt.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\pt_pt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\ro.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\ro.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\ru.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\ru.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\sk.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\sk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\sl.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\sl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\sr.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\sr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\sv.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\sv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\th.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\th.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\th.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\tr.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\tr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\uk.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\uk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\vi.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\vi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\zh_cn.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\zh_cn.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\zh_cn.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\zh_cn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\zh_tw.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\zh_tw.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\languages\\zh_tw.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\languages\\zh_tw.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins.pkgd.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\align.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\align.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\char_counter.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\char_counter.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\code_beautifier.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\code_beautifier.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\code_view.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\code_view.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\colors.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\colors.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\cryptojs.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\cryptojs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\draggable.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\draggable.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\edit_in_popup.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\edit_in_popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\emoticons.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\emoticons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\entities.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\entities.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\file.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\file.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\files_manager.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\files_manager.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\font_family.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\font_family.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\font_size.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\font_size.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\forms.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\forms.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\fullscreen.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\fullscreen.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\help.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\help.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\image.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\image.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\image_manager.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\image_manager.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\inline_class.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\inline_class.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\inline_style.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\inline_style.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\line_breaker.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\line_breaker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\line_height.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\line_height.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\link.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\link.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\lists.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\lists.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\markdown.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\markdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\paragraph_format.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\paragraph_format.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\paragraph_style.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\paragraph_style.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\print.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\quick_insert.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\quick_insert.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\quote.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\quote.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\save.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\save.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\special_characters.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\special_characters.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\table.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\table.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\track_changes.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\track_changes.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\trim_video.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\trim_video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\url.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\url.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\video.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\plugins\\word_paste.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\plugins\\word_paste.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\third_party\\embedly.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\third_party\\embedly.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\third_party\\font_awesome.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\third_party\\font_awesome.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\third_party\\image_tui.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\third_party\\image_tui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\third_party\\showdown.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\third_party\\showdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\froala-editor\\js\\third_party\\spell_checker.min.js",
+      "PackagePath": "staticwebassets\\lib\\froala-editor\\js\\third_party\\spell_checker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nurmuhammad\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Blog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Blog.props",
+      "PackagePath": "build\\Blog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Blog.props",
+      "PackagePath": "buildMultiTargeting\\Blog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Blog.props",
+      "PackagePath": "buildTransitive\\Blog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

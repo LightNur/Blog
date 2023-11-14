@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Blog.Models.Post>
+
+@{
+	ViewData["Title"] = "Index";
+}
+
+
+	<section>
+		<header class="major">
+			<h2>Articles</h2>
+		</header>
+		<div class="posts">
+			@foreach (var item in Model)
+			{
+
+				<article>
+					<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+				<h3>@Html.DisplayFor(modelItem => item.Title)</h3>
+				<p>@Html.DisplayFor(modelItem => item.ShortDesc)</p>
+					<ul class="actions">
+						<li><a asp-action="Edit" class="button" asp-route-id="@item.Id">Edit</a></li>
+						<li><a asp-controller="Home" asp-action="More" class="button" asp-route-id="@item.Id">Details</a></li>
+						<li><a asp-action="Delete" class="button" asp-route-id="@item.Id">Delete</a></li>
+					</ul>
+				</article>
+			}
+		</div>
+	</section>
